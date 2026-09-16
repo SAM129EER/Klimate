@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout";
-import { ThemeProvider } from "./components/theme-provider";
+import { ThemeProvider } from "./components/theme/theme-provider";
 import CityPage from "./pages/CityPage";
 import DashBoardPage from "./pages/DashBoardPage";
 
