@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Layout from "./components/Layout";
+import Layout from "./components/layout/Layout";
 import { ThemeProvider } from "./components/theme/theme-provider";
 import CityPage from "./pages/CityPage";
 import DashBoardPage from "./pages/DashBoardPage";
